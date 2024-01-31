@@ -1,5 +1,6 @@
-Hi 👋 My name is Juan Puerta
-============================
+<h1 align="center">👋 Hello everyone, I'm Juan Puerta</h1>
+
+![](https://komarev.com/ghpvc/?username=AlakanMedia&style=for-the-badge&abbreviated=true)
 
 Junior Software developer
 -------------------------
