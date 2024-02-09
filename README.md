@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello everyone, I'm Juan Puerta</h1>
 
-![alt text](https://github.com/AlakanMedia/AlakanMedia/blob/main/imgs/banner.svg?raw=true)
+<p align="center">
+  <img src="https://github.com/AlakanMedia/AlakanMedia/blob/main/imgs/banner.svg"/>
+</p>
 
 I am a professional graduated from ICESI university as a Software Systems Engineer, I work in both backend and frontend, but now I like a little more the backend. I am a person who likes to learn new things every day, who works efficiently in a team and who stands out for his commitment and attention to detail.
 
