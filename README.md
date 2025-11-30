@@ -4,9 +4,10 @@
   <img src="https://github.com/AlakanMedia/AlakanMedia/blob/main/imgs/banner.svg"/>
 </p>
 
-I am a computer scientis with over 2 years of professional experience, and I consider myself a full-stack developer due to my work in both frontend and backend development. On the frontend, I am proficient in JavaScript, CSS, and HTML, and I have experience with frameworks like React and Svelte. For the backend, I have worked with Python, C, and some Java, along with relational databases like MySQL and non-relational databases such as MongoDB and Redis.
+I am a computer scientis with over 3 years of professional experience, and I consider myself a full-stack developer due to my work in both frontend and backend development. On the frontend, I am proficient in JavaScript, CSS, and HTML, and I have experience with frameworks like React and Svelte. For the backend, I have worked with Python, C, and some Java, along with relational databases like MySQL and non-relational databases such as MongoDB and Redis.
 
 * 🌍  I'm based in Colombia
+* 🕹️  I have an online game called [Pixland](https://www.pixland.io/)
 * ✉️  You can contact me at [puertasebastianjuan@gmail.com](mailto:puertasebastianjuan@gmail.com)
 * 🤝  I'm open to collaborating on any interesting and challenging project
 
